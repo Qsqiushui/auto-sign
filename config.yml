@@ -7,15 +7,15 @@ users:
   #单个用户配置
   - user:
       #username 学号或者工号
-      username: '202193410443'
+      username: 'xxxxxxxxx'
       #password 密码
-      password: '14025X'
+      password: 'xxxxxxx'
       #address 地址，定位信息  中国河南省xx市xx区xx路
-      address: 中国湖南省衡阳市云集镇清泉路丽城花苑
+      address: xxxxxxxxx
       #email 接受通知消息的邮箱
-      email: 2472704141@qq.com
+      email: xxxxxxxx@qq.com
       #school 学校全称
-      school: 湖南高速铁路职业技术学院
+      school: xxxxxxxxx
       #lon 经度
       lon: '114.639377'
       #lat 纬度
